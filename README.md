@@ -11,6 +11,6 @@ The user has up to three attempts to enter a valid password before the program e
 - Provides clear feedback for weak passwords
 
 ## How to Run
-1. Make sure Python 3 is installed on your computer.
-2. Download or clone this repository.
+1. Make sure Python is installed on your computer.
+2. Download this repository.
 3. Run the program in the terminal or command prompt:
